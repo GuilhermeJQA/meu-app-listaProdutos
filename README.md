@@ -4,7 +4,7 @@ Criar uma função de mapeamento dos produtos para um retorno jsx.
 Dentro tag <tbody> exibir de forma alinhada os atributos mencionados na coluna da tabela(Id, nome, preço).
 Corrigir o erro de key no console da aplicação.
 
-#Exercício 2
+# Exercício 2
 Criar um componente Formulário.
 Criar dois campos de input controlado.
 Criar um botão que ao clicar deve exibir os valores do campo de input.
